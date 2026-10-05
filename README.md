@@ -4,15 +4,6 @@
 
 **Universitas Negeri Surabaya (UNESA)**
 
-Welcome to my GitHub profile! I'm an Informatics Engineering student interested in software development, mobile applications, and programming.
-
-### 🌷 About Me
-
-* 🎓 Informatics Engineering Student at UNESA
-* 💻 Interested in Software Development
-* 🌱 Currently learning Flutter, Dart, and Java
-* ✨ Exploring Object-Oriented Programming and Mobile App Development
-
 ### 🛠️ Tech Stack
 
 * **Languages:** Java, Dart
