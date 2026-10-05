@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jois! 👋
 
-<!--
-**MirandaAP/MirandaAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Informatics Engineering Student
 
-Here are some ideas to get you started:
+**Universitas Negeri Surabaya (UNESA)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm an Informatics Engineering student interested in software development, mobile applications, and programming.
+
+### 🌷 About Me
+
+* 🎓 Informatics Engineering Student at UNESA
+* 💻 Interested in Software Development
+* 🌱 Currently learning Flutter, Dart, and Java
+* ✨ Exploring Object-Oriented Programming and Mobile App Development
+
+### 🛠️ Tech Stack
+
+* **Languages:** Java, Dart
+* **Framework:** Flutter
+* **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+* 🛍️ **DigiMart** — A digital product marketplace built with Flutter.
+* ☕ **Java** — Programming exercises and projects using Java.
+
+### 🌐 Connect with Me
+
+* GitHub: [@MirandaAP](https://github.com/MirandaAP)
+
+---
+
+*Thanks for visiting my profile! 🌷*
